@@ -1,7 +1,7 @@
 
 ``` php
-$appId = "";
-$appSecret = "";
+$appId = "";//แอพไอดี
+$appSecret = "";//แอพคีย์ลับ
 
 $fb = new \Facebook\Facebook([
   'app_id' => $appId,
