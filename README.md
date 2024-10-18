@@ -1,5 +1,4 @@
-
-![main](https://img5.pic.in.th/file/secure-sv1/Screenshot_25670908_164524.jpg)
+![main](https://img2.pic.in.th/pic/Screenshot_25671018_090611.jpg)
 # config.php
 ``` php
 $appId = "";
