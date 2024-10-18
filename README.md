@@ -1,6 +1,4 @@
-# Facebook api
-``` bash https://developers.facebook.com/tools/explorer
-```
+
 # config.php
 ``` php
 $appId = "";
