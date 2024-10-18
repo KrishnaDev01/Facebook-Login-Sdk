@@ -1,5 +1,4 @@
-![main](https://img2.pic.in.th/pic/Screenshot_25671018_090611.jpg)
-# config.php
+
 ``` php
 $appId = "";
 $appSecret = "";
@@ -10,3 +9,5 @@ $fb = new \Facebook\Facebook([
   'default_graph_version' => 'v2.10',
 ]);
 ```
+![main](https://img2.pic.in.th/pic/Screenshot_25671018_090611.jpg)
+
